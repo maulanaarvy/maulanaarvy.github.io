@@ -1,0 +1,42 @@
+body {
+  background-color: orange;
+  padding: 0;
+  margin: 0;
+}
+/* ===== */
+.container {
+  width: 80%;
+  background-color: #fff;
+  height: 2000px;
+  margin: 0 auto;
+}
+header {
+  background-color: lightskyblue;
+  height: 90px;
+}
+.div-atas {
+  margin-top: 10px;
+  background-color: lightskyblue;
+  height: 500px;
+}
+.div-bawah {
+  display: flex;
+  justify-content: space-around;
+}
+.div-kiri {
+  margin-top: 10px;
+  background-color: lightgreen;
+  height: 500px;
+  width: 48%;
+}
+.div-kanan {
+  margin-top: 10px;
+  background-color: lightgreen;
+  height: 500px;
+  width: 48%;
+}
+footer {
+  background-color: grey;
+  height: 200px;
+  margin-top: 10px;
+}

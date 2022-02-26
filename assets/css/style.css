@@ -545,3 +545,85 @@ a {
 
   color: #363636;
 }
+.p-group1 {
+  position: absolute;
+  width: 519.21px;
+  height: 118.87px;
+  left: 733px;
+  top: 1142px;
+
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18.4062px;
+  line-height: 22px;
+  letter-spacing: 0.05em;
+
+  color: #737373;
+}
+.p-group2 {
+  position: absolute;
+  width: 365.82px;
+  height: 52.92px;
+  left: 733px;
+  top: 1235px;
+
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13.8046px;
+  line-height: 17px;
+  letter-spacing: 0.05em;
+
+  color: #737373;
+}
+.group-8 {
+  position: absolute;
+  width: 458px;
+  height: 92.15px;
+  left: 188px;
+  top: 1235px;
+}
+.group-email {
+  position: absolute;
+  left: 13.06%;
+  right: 72.49%;
+  top: 71.03%;
+  bottom: 25.69%;
+
+  background: #363636;
+  border-radius: 8.35766px;
+  height: 58.5036506652832px;
+  width: 208.1058349609375px;
+  left: 188px;
+  top: 1268.6513671875px;
+  border-radius: 8.357664108276367px;
+}
+footer {
+  background-color: #363636;
+  position: absolute;
+  width: 1440px;
+  height: 153px;
+  left: 0px;
+  top: 1633px;
+}
+footer p {
+  position: absolute;
+  width: 289px;
+  height: 17px;
+  left: 546px;
+  top: 1701px;
+
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  text-align: center;
+  letter-spacing: 0.05em;
+
+  color: #ffffff;
+  background-color: #363636;
+}
