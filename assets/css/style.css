@@ -275,7 +275,7 @@ button a {
   height: 447px;
   left: calc(50% - 1045px / 2 + 34.5px);
   top: 591px;
-  background-color: azure;
+  /* background-color: azure; */
 }
 .main-isi img {
   position: static;
@@ -284,7 +284,7 @@ button a {
   top: 8.17%;
   bottom: 8.17%;
 
-  background: url(logo.png);
+  /* background: url(logo.png); */
 
   /* Inside auto layout */
 
@@ -318,7 +318,7 @@ button a {
   order: 1;
   flex-grow: 0;
   margin: 0px 30px;
-  background-color: antiquewhite;
+  /* background-color: antiquewhite; */
 }
 hr {
   position: static;
