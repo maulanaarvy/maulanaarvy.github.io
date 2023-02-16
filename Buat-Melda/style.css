@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-image: url(pattern_1.png);
+}
+img {
+  width: 200px;
+  margin: 30px;
+}
+.container {
+  /* height: 100px; */
+  /* background-color: rgba(0, 0, 0, 0.5); */
+  margin: auto;
+  text-align: center;
+  overflow: auto;
+  padding: 50px 0;
+}
+.pilih {
+  /* background-color: orange; */
+  margin-top: 40px;
+  /* position: relative; */
+  /* max-height: 200px; */
+  /* padding: 10px 40px 10px 0; */
+}
+#mau {
+  position: absolute;
+  left: 36%;
+}
+#gamau {
+  position: absolute;
+  left: 50%;
+}
