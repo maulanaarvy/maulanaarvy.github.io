@@ -26,7 +26,7 @@ console.log(btnMau);
 // ? jika mau
 btnMau.addEventListener("click", function () {
   alert("Hari ini kita pacaran yaa");
-  h1_1.innerHTML = "imeldaa";
+  h1_1.innerHTML = "";
   gambar.setAttribute("src", "img4.gif");
   h1_2.innerHTML = "Aku Sayang Kamu";
   pilih.remove();
